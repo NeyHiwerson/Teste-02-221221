@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+D:\projeto do dia Eclipse\Teste-02-221221\.metadata\.plugins\org.eclipse.jdt.core
+1146275995.index
+1067094681.index
+1865797976.index
